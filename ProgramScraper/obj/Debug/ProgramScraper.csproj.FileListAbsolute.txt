@@ -1,0 +1,11 @@
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\obj\Debug\ProgramScraper.csprojAssemblyReference.cache
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\obj\Debug\ProgramScraper.csproj.CoreCompileInputs.cache
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\bin\Debug\ProgramScraper.exe.config
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\bin\Debug\ProgramScraper.exe
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\bin\Debug\ProgramScraper.pdb
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\obj\Debug\ProgramScraper.csproj.CopyComplete
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\obj\Debug\ProgramScraper.exe
+C:\Users\zackaryj\source\tools\ProgramScraper\ProgramScraper\obj\Debug\ProgramScraper.pdb
